@@ -63,11 +63,7 @@ const b = 1;
 [gogocode-playground]: https://play.gogocode.io
 [gogocode-vscode]: https://marketplace.visualstudio.com/items?itemName=mmfe.vscode-gogocode
 
-## 支持
 
--   [issues](https://github.com/thx/gogocode/issues)
--   钉钉群：34266233
--   QQ群：735216094
 
 ## 开源协议
 
